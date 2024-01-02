@@ -33,19 +33,23 @@ The BlogPost Web Application offers a comprehensive solution for content creator
 
 ### 5.1 User Authentication and Management
 
-    Secure user registration and login functionality.
-    Password recovery and reset options.
+Secure user registration and login functionality.
+
+Password recovery and reset options.
 
 ### 5.2 Content Creation and Management
 
-    User-friendly interface for creating, editing, and deleting blog posts.
-    Categorization of blog posts into different predefined categories.
+User-friendly interface for creating, editing, and deleting blog posts.
+
+Categorization of blog posts into different predefined categories.
 
 ### 5.3 Content Consumption and Interaction
 
-    Efficient search functionality allowing users to find posts by keywords or categories.
-    Viewing blog posts based on selected categories.
-    Commenting and feedback system for users to interact with blog posts.
+Efficient search functionality allowing users to find posts by keywords or categories.
+
+Viewing blog posts based on selected categories.
+
+Commenting and feedback system for users to interact with blog posts.
 
 ## 6. Functional Requirements
 
