@@ -31,36 +31,52 @@ The BlogPost Web Application offers a comprehensive solution for content creator
 
 ### 5.1 User Management
 
-FR1.1 - Users can register by providing necessary details.
-FR1.2 - Users can log in using their credentials.
-FR1.3 - Users can reset their passwords if forgotten.
+1.1 - Users can register by providing necessary details.
+
+1.2 - Users can log in using their credentials.
+
+1.3 - Users can reset their passwords if forgotten.
+
 ### 5.2 Blog Management
 
-FR2.1 - Users can create, edit, and delete blog posts.
-FR2.2 - Users can categorize their blog posts.
-FR2.3 - Users can view a list of their posts.
+2.1 - Users can create, edit, and delete blog posts.
+
+2.2 - Users can categorize their blog posts.
+
+2.3 - Users can view a list of their posts.
+
 ### 5.3 Content Consumption
 
-FR3.1 - Users can view blog posts based on categories.
-FR3.2 - Users can search for blog posts using keywords or categories.
+3.1 - Users can view blog posts based on categories.
+
+3.2 - Users can search for blog posts using keywords or categories.
+
 # 6. Non-Functional Requirements
 
 ### 6.1 Performance
 
-NFR1.1 - The application should handle a concurrent user load of at least 100 users.
-NFR1.2 - Blog post retrieval should be optimized for speed.
+1.1 - The application should handle a concurrent user load of at least 100 users.
+
+1.2 - Blog post retrieval should be optimized for speed.
+
 ### 6.2 Security
 
-NFR2.1 - All user passwords must be securely hashed and stored.
-NFR2.2 - The application should protect against common web vulnerabilities like SQL injection and cross-site scripting (XSS).
+2.1 - All user passwords must be securely hashed and stored.
+
+2.2 - The application should protect against common web vulnerabilities like SQL injection and cross-site scripting (XSS).
+
 ### 6.3 Usability
 
-NFR3.1 - The user interface should be intuitive and user-friendly.
-NFR3.2 - The application should be accessible from various devices and browsers.
+3.1 - The user interface should be intuitive and user-friendly.
+
+3.2 - The application should be accessible from various devices and browsers.
+
 # 7. Constraints
 
 The application is built using Java, JSP, Servlets, and MySQL, limiting the flexibility to easily migrate to other technologies.
+
 The application is hosted on Apache Tomcat, which imposes certain configuration constraints.
+
 # 8. Conclusion
 
 The BlogPost Web Application aims to provide a comprehensive platform for content creators and consumers. By addressing the identified requirements and constraints, the application is poised to offer a seamless experience for its users.
